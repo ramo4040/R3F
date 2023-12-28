@@ -1,1 +1,1 @@
-<img src="video.png" width="100%">
+<img src="😃.png" width="100%">
